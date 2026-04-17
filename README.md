@@ -1,8 +1,7 @@
-<h1 align="center">Yoseph Mulugeta Aberha</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A3A5C&height=130&section=header&text=Yoseph%20Mulugeta%20Aberha&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=International%20Management%20%7C%20ESG%20%26%20EU%20Compliance%20%7C%20Digital%20Entrepreneur&descSize=14&descAlignY=70&descColor=ccddee"/>
 
 <p align="center">
-  <strong>MA International Management</strong> — TH Aschaffenburg, Germany<br/>
-  ESG & EU Compliance &nbsp;·&nbsp; Digital Entrepreneurship &nbsp;·&nbsp; AI-Augmented Product Development
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1A3A5C&center=true&vCenter=true&width=700&lines=MA+International+Management+%E2%80%94+TH+Aschaffenburg+(1.9);ESG+%26+EU+Compliance+Specialist+(CSDDD%2C+EUDR%2C+CSRD);Founder+of+EthiTrace+%C2%B7+MycountryGuide+%C2%B7+Religionly;AI-Augmented+Builder+%E2%80%94+Bridging+Africa+%26+Europe" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -10,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:yosephaberha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://ethitrace.com">
     <img src="https://img.shields.io/badge/EthiTrace-1A3A5C?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -25,39 +24,52 @@
 
 ---
 
-I build digital products at the intersection of international business, EU sustainability regulation, and AI — bridging African markets and European regulatory standards.
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=YosephAberha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=1A3A5C&icon_color=1A3A5C"/>
+
+### About Me
+
+I build digital products at the intersection of **international business**, **EU sustainability regulation**, and **AI** — bridging African markets and European regulatory standards.
+
+- 🎓 MA International Management, TH Aschaffenburg **(1.9)**
+- 🌍 Ethiopian background, based in **Aschaffenburg, Germany**
+- 🏗️ Founder of **3 live web platforms**
+- 🤖 AI builder — Anthropic Claude API, Google Gemini
+- 📋 ESG specialist — **CSDDD, EUDR, CSRD**
+
+<br clear="right"/>
 
 ---
 
-### Live Projects
+### 🌐 Live Projects
 
 | Project | Description | |
 |---------|-------------|---|
-| **EthiTrace** | AI-powered EU supply chain compliance platform (CSDDD, EUDR, CSRD) | [ethitrace.com](https://ethitrace.com) |
-| **MycountryGuide** | AI market intelligence platform — World Bank data, bilingual DE/EN | [mycountryguide.de](https://mycountryguide.de) |
-| **Religionly** | Cross-cultural HR training platform for international workforces | [religionly.de](https://religionly.de) |
+| ⬡ **EthiTrace** | AI-powered EU supply chain compliance platform for African companies | [ethitrace.com](https://ethitrace.com) |
+| 🌍 **MycountryGuide** | AI market intelligence platform — World Bank data, bilingual DE/EN | [mycountryguide.de](https://mycountryguide.de) |
+| 🕌 **Religionly** | Cross-cultural HR training platform for international workforces | [religionly.de](https://religionly.de) |
 
 ---
 
-### Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
----
-
-### GitHub Stats
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YosephAberha&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosephAberha&layout=compact&theme=default&hide_border=true" height="150"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,react,prisma,postgres,tailwind,vercel,vite&theme=light&perline=8"/>
+  </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosephAberha&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=YosephAberha&theme=tokyonight&hide_border=true" height="140"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YosephAberha&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A3A5C&height=80&section=footer"/>
