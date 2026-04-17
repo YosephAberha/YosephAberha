@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A3A5C&height=130&section=header&text=Yoseph%20Mulugeta%20Aberha&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=International%20Management%20%7C%20ESG%20%26%20EU%20Compliance%20%7C%20Digital%20Entrepreneur&descSize=14&descAlignY=70&descColor=ccddee"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1A3A5C&center=true&vCenter=true&width=700&lines=MA+International+Management+%E2%80%94+TH+Aschaffenburg+(1.9);ESG+%26+EU+Compliance+Specialist+(CSDDD%2C+EUDR%2C+CSRD);Founder+of+EthiTrace+%C2%B7+MycountryGuide+%C2%B7+Religionly;AI-Augmented+Builder+%E2%80%94+Bridging+Africa+%26+Europe" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1A3A5C&center=true&vCenter=true&width=700&lines=MA+International+Management+%E2%80%94+TH+Aschaffenburg+(1.9);ESG+%26+EU+Compliance+Specialist+(CSDDD%2C+EUDR%2C+CSRD);Business+Development+%C2%B7+Consulting+%C2%B7+Market+Research;Digital+Marketing+%C2%B7+Database+Management+%C2%B7+AI+Solutions;Founder+of+EthiTrace+%C2%B7+MycountryGuide+%C2%B7+Religionly" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -28,13 +28,16 @@
 
 ### About Me
 
-I build digital products at the intersection of **international business**, **EU sustainability regulation**, and **AI** — bridging African markets and European regulatory standards.
+I build digital products and deliver strategic solutions — turning research into products and business challenges into digital solutions.
 
 - 🎓 MA International Management, TH Aschaffenburg **(1.9)**
 - 🌍 Ethiopian background, based in **Aschaffenburg, Germany**
 - 🏗️ Founder of **3 live web platforms**
 - 🤖 AI builder — Anthropic Claude API, Google Gemini
 - 📋 ESG specialist — **CSDDD, EUDR, CSRD**
+- 📈 Business development, consulting & market research
+- 📊 Database management — Prisma, PostgreSQL, data architecture
+- 🎯 Digital marketing & brand strategy
 
 <br clear="right"/>
 
