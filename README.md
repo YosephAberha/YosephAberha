@@ -1,78 +1,44 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A3A5C&height=130&section=header&text=Yoseph%20Mulugeta%20Aberha&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=International%20Management%20%7C%20ESG%20%26%20EU%20Compliance%20%7C%20Digital%20Entrepreneur&descSize=14&descAlignY=70&descColor=ccddee"/>
+# Yoseph Aberha
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1A3A5C&center=true&vCenter=true&width=700&lines=MA+International+Management+%E2%80%94+TH+Aschaffenburg+(1.9);ESG+%26+EU+Compliance+Specialist+(CSDDD%2C+EUDR%2C+CSRD);Business+Development+%C2%B7+Consulting+%C2%B7+Market+Research;Digital+Marketing+%C2%B7+Database+Management+%C2%B7+AI+Solutions;Founder+of+EthiTrace+%C2%B7+MycountryGuide+%C2%B7+Religionly" alt="Typing SVG"/>
-</p>
+**Market Research & Business Intelligence · ESG & EU Compliance · AI-Augmented Product Development**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yoseph-aberha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yosephaberha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://ethitrace.com">
-    <img src="https://img.shields.io/badge/EthiTrace-1A3A5C?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://mycountryguide.de">
-    <img src="https://img.shields.io/badge/MycountryGuide-0A6E31?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://religionly.de">
-    <img src="https://img.shields.io/badge/Religionly-6B21A8?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+Based in Aschaffenburg, Germany · MA International Management (TH Aschaffenburg, 1.9) · Ethiopian
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=YosephAberha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=1A3A5C&icon_color=1A3A5C"/>
+## What I Build
 
-### About Me
+I build AI-powered tools that solve real business problems — compliance analysis, market intelligence, and cross-cultural training. My background is in international market research; AI is how I move faster and go deeper.
 
-I build digital products and deliver strategic solutions — turning research into products and business challenges into digital solutions.
-
-- 🎓 MA International Management, TH Aschaffenburg **(1.9)**
-- 🌍 Ethiopian background, based in **Aschaffenburg, Germany**
-- 🏗️ Founder of **3 live web platforms**
-- 🤖 AI builder — Anthropic Claude API, Google Gemini
-- 📋 ESG specialist — **CSDDD, EUDR, CSRD**
-- 📈 Business development, consulting & market research
-- 📊 Database management — Prisma, PostgreSQL, data architecture
-- 🎯 Digital marketing & brand strategy
-
-<br clear="right"/>
+| Project | What it does | Live |
+|---|---|---|
+| **EthiTrace** | AI compliance gap detection for CSDDD, EUDR & CSRD | [ethitrace.com](https://ethitrace.com) |
+| **MycountryGuide** | Bilingual DE/EN market intelligence with World Bank data | [mycountryguide.de](https://mycountryguide.de) |
+| **Religionly** | Cross-cultural HR training covering world religions & etiquette | [religionly.de](https://religionly.de) |
 
 ---
 
-### 🌐 Live Projects
+## How I Use AI
 
-| Project | Description | |
-|---------|-------------|---|
-| ⬡ **EthiTrace** | AI-powered EU supply chain compliance platform for African companies | [ethitrace.com](https://ethitrace.com) |
-| 🌍 **MycountryGuide** | AI market intelligence platform — World Bank data, bilingual DE/EN | [mycountryguide.de](https://mycountryguide.de) |
-| 🕌 **Religionly** | Cross-cultural HR training platform for international workforces | [religionly.de](https://religionly.de) |
+I don't just use AI tools — I design how AI fits into a workflow to deliver a specific business outcome.
 
----
+- **Claude API** — prompt architecture for regulatory analysis and structured report generation
+- **Google Generative AI** — market data synthesis and multilingual content
+- **Higgsfield AI** — creative direction for brand video concepts
+- **NotebookLM** — research synthesis and source analysis
 
-### 🛠 Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,react,prisma,postgres,tailwind,vercel,vite&theme=light&perline=8"/>
-  </a>
-</p>
+The pattern across all my projects: take a complex domain (EU compliance law, global market data, world religions), structure it so AI can reason over it, and deliver the output to a non-expert user.
 
 ---
 
-### 📊 GitHub Stats
+## Background
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosephAberha&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=YosephAberha&theme=tokyonight&hide_border=true" height="140"/>
-</p>
+- **MA International Management** — TH Aschaffenburg, Germany · Grade: **1.9** · Thesis: EU Supply Chain Compliance (CSDDD/CSRD/EUDR), Grade: 1.3
+- **Market Analyst** — EAGate Consulting, Addis Ababa (2022–2023) · 16+ client engagements · IFC/World Bank, GIZ, AFD, JETRO
+- **Languages** — Amharic (native) · English (C2) · German (B2)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YosephAberha&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
-</p>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A3A5C&height=80&section=footer"/>
+## Connect
+
+[LinkedIn](https://linkedin.com/in/yoseph-aberha) · yosephaberha@gmail.com
